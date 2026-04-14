@@ -9,10 +9,8 @@
 
 I’m a Software Developer with **2+ years of experience** building and deploying **web and mobile applications**. I enjoy working across the full stack and creating **scalable, real-world solutions**.
 
-I focus on writing **clean, maintainable code** and building applications that are **fast, reliable, and user-friendly**.
-
-- 🔭 Currently working on production-grade applications  
-- 🌱 Exploring **Cloud Computing, System Design, and Cybersecurity**  
+- 🔭 Working on production-grade applications  
+- 🌱 Exploring **Cloud Computing, System Design, Cybersecurity**  
 - 💡 Passionate about building real-world products  
 - 🌐 Portfolio: https://saran-aadithyan-portfolio.netlify.app  
 
@@ -20,40 +18,46 @@ I focus on writing **clean, maintainable code** and building applications that a
 
 ## 🛠️ Tech Stack
 
-### 🚀 Mobile Development
-- React Native, Flutter, Dart
+### 🚀 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🌐 Web Development
-- React.js, JavaScript, Redux
+### 🌐 Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend & Database
-- Node.js, Express.js  
-- PostgreSQL, Firebase, Redis  
-- REST APIs
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-- Firebase Cloud Functions  
-- Google Cloud  
-- Docker
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🧰 Tools & Environment
-- Git, Bitbucket  
-- Postman  
-- Linux  
-- VS Code  
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔗 Integrations
-- Zoho APIs  
-- Meta WhatsApp Business APIs  
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saranadhi-dev&theme=tokyonight)
 
 ---
 
 ## 🎯 Goals
 
-- Grow as a **strong full-stack developer**
-- Deepen knowledge in **backend architecture & system design**
-- Explore **cloud computing and cybersecurity**
-- Build **scalable and impactful products**
+- Become a **strong full-stack engineer**
+- Improve **backend architecture & system design**
+- Explore **cloud computing & cybersecurity**
+- Build **scalable, impactful products**
 
 ---
 
