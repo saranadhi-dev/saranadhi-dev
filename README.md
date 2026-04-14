@@ -48,44 +48,6 @@ I focus on writing **clean, maintainable code** and building applications that a
 
 ---
 
-## 💼 Experience
-
-### 🏢 Software Developer  
-**Ideelit Software LLP** | Nov 2023 – Present  
-
-- Developed and maintained **web and mobile applications**
-- Built features like **authentication, RBAC, scheduling workflows, and payment integrations**
-- Integrated **third-party APIs** (video/audio, WhatsApp)
-- Worked on **deployment and release management (Play Console)**
-- Focused on **scalable backend systems and clean architecture**
-
----
-
-## 🚀 Projects
-
-### ⚖️ 123legal.in
-Legal consultation platform for advocates and users  
-- Appointment scheduling, subscriptions, and real-time availability  
-- Role-based access control and session management  
-- Video/audio consultation via API integrations  
-
----
-
-### 🛒 FreshOps
-E-commerce platform enhancements  
-- Product listing, order management, billing features  
-- Real-time sync and backend improvements  
-
----
-
-### 🐟 Meenamma Marine Market
-WhatsApp-based e-commerce solution  
-- Built using **React.js, Firebase, Meta WhatsApp APIs**  
-- Automated order workflows and customer communication  
-- Admin dashboard for managing products and orders  
-
----
-
 ## 🎯 Goals
 
 - Grow as a **strong full-stack developer**
@@ -97,7 +59,7 @@ WhatsApp-based e-commerce solution
 
 ## 📫 Connect With Me
 
-- 📧 Email: salemsaranaadithyan@gmail.com  
+- 📧 Email: saranaadithyan@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/saran-aadithyan-v-74228b1a2  
 - 🌐 Portfolio: https://saran-aadithyan-portfolio.netlify.app  
 
