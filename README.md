@@ -46,11 +46,18 @@ I’m a Software Developer with **2+ years of experience** building and deployin
 
 ---
 
+## 📊 GitHub Stats
+
+![Saran's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saranadhi-dev&show_icons=true&theme=tokyonight)
+
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=saranadhi-dev&theme=tokyonight)
 
 ---
+
 
 ## 🎯 Goals
 
