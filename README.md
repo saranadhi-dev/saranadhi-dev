@@ -12,7 +12,7 @@ I’m a Software Developer with **2+ years of experience** building and deployin
 - 🔭 Working on production-grade applications  
 - 🌱 Exploring **Cloud Computing, System Design, Cybersecurity**  
 - 💡 Passionate about building real-world products  
-- 🌐 Portfolio: https://saran-aadithyan-portfolio.netlify.app  
+- 🌐 Portfolio: https://saran-aadithyan-portfolio.vercel.app  
 
 ---
 
